@@ -1,11 +1,15 @@
-
 # Under the hood of Attention
 - [Devjyoti Chakraborty](https://twitter.com/Cr0wley_zz)
 - [Aritra Roy Gosthipaty](https://twitter.com/arig23498)
 
 # Introduction
 
-![att](https://user-images.githubusercontent.com/36856589/111683721-de64ba00-884b-11eb-8dd3-3f6f30ff9c3b.gif)
+## Bahdanau Attention
+![Bahdanau](https://user-images.githubusercontent.com/36856589/111683721-de64ba00-884b-11eb-8dd3-3f6f30ff9c3b.gif)
+
+## Luong Attention
+![Luong](https://user-images.githubusercontent.com/36856589/111873355-f0626c00-89b5-11eb-86fa-1a4dd891e08e.gif)
+
 
 This repository houses the code for a five part series on **Attention** hosted by [Weights and Biases](https://wandb.ai/). The contents we will be covering are as follows:
 - [Part I](https://wandb.ai/authors/under-attention/reports/Under-the-hood-of-attention--Vmlldzo1MzQwMTU): The intuition behind attention with Neural Machine Translation (NMT) in mind.
